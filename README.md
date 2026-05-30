@@ -195,3 +195,5 @@ celery -A config worker --loglevel=info
 * Celery background processing
 * Modular application architecture
 * Dockerized deployment support
+
+
