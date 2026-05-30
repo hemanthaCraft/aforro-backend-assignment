@@ -197,3 +197,14 @@ celery -A config worker --loglevel=info
 * Dockerized deployment support
 
 
+## Screenshots
+
+Project screenshots demonstrating:
+
+- Django Admin Panel
+- Product & Category Management
+- Store & Inventory Management
+- Product Search API
+- Order Processing API
+
+are available in the `/screenshots` folder.
